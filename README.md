@@ -2,7 +2,9 @@
 
 ---
 
-Animation of Backpropagation and learning of parameters of the Neural Networks that fits the data 🎉🔥.
+This is the smallest toy example of neural network fitting squiggle to data and finding optimal values for its parameters. In real world there will be large no of data points and squiggle will be very complex and there will be large no of parameters to be learned.
+Animation of Backpropagation and learning of parameters of the Neural Networks that fits squiggle to the data 🎉🔥.
+
 <img src="./assets/backpropagation.gif" weight="100%" />
 
 ## Multiple input and output(class) Neural Networks
